@@ -8,6 +8,7 @@ linters:
     - typecheck
     - varcheck
     - unused
+    - sqlclosecheck
     - structcheck
     - deadcode
     - gosimple
